@@ -1,0 +1,12 @@
+# IDEs
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Compiled
+*.exe
+*.o
+*.class
