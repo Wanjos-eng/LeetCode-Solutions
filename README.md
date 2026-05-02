@@ -1,12 +1,23 @@
-# LeetCode-Solutions
+# LeetCode Solutions
 
-Repositório dedicado à resolução de problemas do LeetCode. Aqui documentarei minha jornada de estudos em algoritmos e estruturas de dados.
+Minha jornada de resolução de problemas do LeetCode — algoritmos, estruturas de dados e padrões de programação.
 
-## Estrutura do Projeto
+## Estrutura
 
-- `/problems`: Soluções organizadas por nível de dificuldade ou tema.
-- `/notes`: Anotações sobre padrões de algoritmos (Two Pointers, Sliding Window, etc).
+Os arquivos seguem a convenção: `{número}_{nome-do-problema}.{extensão}`
 
-## Como usar
+```
+problems/
+├── easy/         # Problemas fáceis
+├── medium/       # Problemas médios
+└── hard/         # Problemas difíceis
+notes/            # Anotações sobre padrões (Two Pointers, Sliding Window, etc.)
+```
 
-Cada solução contém o código e uma breve explicação da abordagem utilizada.
+## Progresso
+
+O portfólio em [weslen.dev](https://weslen.dev) exibe os problemas resolvidos em tempo real — cada push atualiza automaticamente.
+
+## Stack
+
+Resolvo principalmente em **TypeScript**, **Go** e **Python**.
